@@ -1,0 +1,2 @@
+<PYTHON EXE PATH> -m venv <venvname>
+venvcam\Scripts\activate.bat

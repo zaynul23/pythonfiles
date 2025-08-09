@@ -1,0 +1,20 @@
+{
+    "college":{
+        "name":"KMIT",
+        "year":2007,
+        "dept":["cse","csm"],
+        "emps":[
+            {
+            "id":"n1",
+            "name":43,
+            "dept":"csm"
+            },
+            {
+                "id":"14",
+                "name":"fred",
+                "salary":1000,
+                "dept":"cse"
+            }
+        ]
+    }
+}

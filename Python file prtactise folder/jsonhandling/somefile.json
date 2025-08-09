@@ -1,0 +1,30 @@
+ {
+    "students":[
+        {
+            "name":"n1",
+            "age":"age1"
+        
+        },
+        {
+            "name":"n2",
+            "age":"age2"
+        
+        }
+
+    ],
+    "faculty":[
+        {
+            "name":"fn1",
+            "fac_age":"50",
+            "salary":20000
+        
+        },
+        {
+            "name":"fn2",
+            "fac_age":"32"
+        
+        }
+
+    ]
+
+}
