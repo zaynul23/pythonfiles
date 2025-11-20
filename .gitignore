@@ -5,4 +5,8 @@ __pycache__/
 CAT/
 foler_w_vids/
 imagestouse/
-
+mlmodels/
+CV_MOD/FD_FR/FR_venv/
+CV_MOD/FD_FR/insightface/
+CV_MOD/FD_FR/models/
+RANDOM_CODES/
